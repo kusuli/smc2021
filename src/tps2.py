@@ -2,7 +2,6 @@
 
 import heapq
 import math
-import util
 import setting
 from tps import TPS
 import numpy
