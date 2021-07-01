@@ -4,7 +4,6 @@ import re
 import torch
 import numpy
 import statistics as st
-import util
 import random
 from multiprocessing import Pool
 
