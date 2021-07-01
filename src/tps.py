@@ -2,7 +2,6 @@
 
 import heapq
 import math
-import util
 import setting
 class TPS:
 	INF_TPL = (999999,)
